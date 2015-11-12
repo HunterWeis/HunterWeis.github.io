@@ -1,6 +1,8 @@
 #text{
-      font-size: 100px
+ 	  font-size: 1000px
+      margin: 0 auto;
+     
       font-family: 'Josefin Slab',sans-serif;
-      
+      font-weight: bold;
 
       color: rgb(251,43,105);
